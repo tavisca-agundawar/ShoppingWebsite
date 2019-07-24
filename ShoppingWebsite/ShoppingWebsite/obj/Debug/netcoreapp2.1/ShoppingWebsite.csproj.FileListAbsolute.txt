@@ -1,0 +1,9 @@
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\netcoreapp2.1\ShoppingWebsite.deps.json
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\netcoreapp2.1\ShoppingWebsite.dll
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\netcoreapp2.1\ShoppingWebsite.pdb
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\netcoreapp2.1\ShoppingWebsite.csprojAssemblyReference.cache
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\netcoreapp2.1\ShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\netcoreapp2.1\ShoppingWebsite.AssemblyInfoInputs.cache
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\netcoreapp2.1\ShoppingWebsite.AssemblyInfo.cs
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\netcoreapp2.1\ShoppingWebsite.dll
+C:\Users\agundawar\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\netcoreapp2.1\ShoppingWebsite.pdb

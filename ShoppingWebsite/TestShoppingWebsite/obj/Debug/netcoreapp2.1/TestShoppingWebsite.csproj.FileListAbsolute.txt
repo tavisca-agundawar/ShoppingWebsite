@@ -1,0 +1,17 @@
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\TestShoppingWebsite.deps.json
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\TestShoppingWebsite.runtimeconfig.json
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\TestShoppingWebsite.runtimeconfig.dev.json
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\TestShoppingWebsite.dll
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\TestShoppingWebsite.pdb
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\ShoppingWebsite.dll
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\bin\Debug\netcoreapp2.1\ShoppingWebsite.pdb
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\obj\Debug\netcoreapp2.1\TestShoppingWebsite.csprojAssemblyReference.cache
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\obj\Debug\netcoreapp2.1\TestShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\obj\Debug\netcoreapp2.1\TestShoppingWebsite.AssemblyInfoInputs.cache
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\obj\Debug\netcoreapp2.1\TestShoppingWebsite.AssemblyInfo.cs
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\obj\Debug\netcoreapp2.1\TestShoppingWebsite.csproj.CopyComplete
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\obj\Debug\netcoreapp2.1\TestShoppingWebsite.dll
+C:\Users\agundawar\source\repos\ShoppingWebsite\TestShoppingWebsite\obj\Debug\netcoreapp2.1\TestShoppingWebsite.pdb
