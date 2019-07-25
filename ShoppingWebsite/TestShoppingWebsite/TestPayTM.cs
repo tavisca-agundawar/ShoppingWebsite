@@ -31,7 +31,13 @@ namespace TestShoppingWebsite
             paymentMethodDetails.paymentReceiptStatus = true;
 
             //Assert
-            Assert.Equal(paymentMethodDetails, returnedDetails);
+            Assert.Equal(paymentMethodDetails.confirmationStatus, returnedDetails.confirmationStatus);
+            Assert.Equal(paymentMethodDetails.paymentMethod, returnedDetails.paymentMethod);
+            Assert.Equal(paymentMethodDetails.userDetails._registeredMobileNumber, returnedDetails.userDetails._registeredMobileNumber);
+            Assert.Equal(paymentMethodDetails.userDetails._userName, returnedDetails.userDetails._userName);
+            Assert.Equal(paymentMethodDetails.userDetails._upiPaymentId, returnedDetails.userDetails._upiPaymentId);
+            Assert.Equal(paymentMethodDetails.userDetails._cardNumber, returnedDetails.userDetails._cardNumber);
+
         }
     }
 }
